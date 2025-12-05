@@ -1,0 +1,14 @@
+.venv
+airflow-env/
+__pycache__/
+*.pyc
+*.pyo
+data/
+logs/
+database
+table_changes
+dags/dbt
+dags/hisp-project-analytics
+dags/hrh
+dags/uwc_ml
+dags/vmmc
