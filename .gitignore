@@ -3,9 +3,9 @@ airflow-env/
 __pycache__/
 *.pyc
 *.pyo
-data/
+data
 logs/
-database
+database.sql
 table_changes.sql
 dags/dbt
 dags/hisp-project-analytics
