@@ -6,9 +6,13 @@ __pycache__/
 data/
 logs/
 database
-table_changes
+table_changes.sql
 dags/dbt
 dags/hisp-project-analytics
 dags/hrh
+dags/.DS_Store
 dags/uwc_ml
 dags/vmmc
+uv.lock
+.DS_Store
+.git
